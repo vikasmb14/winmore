@@ -4,3 +4,7 @@ Dear
 
 darling
 adios
+
+
+greetings
+good day!
