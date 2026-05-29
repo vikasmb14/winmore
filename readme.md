@@ -8,3 +8,6 @@ adios
 
 greetings
 good day!
+
+welcome!
+have a nice day!
